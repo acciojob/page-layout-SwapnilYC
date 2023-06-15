@@ -1,1 +1,14 @@
+.header{
+    font-size: 4rem;
+    font-weight: bolder;
+}
 
+.content{
+    font-size: 2rem;
+    /* font-weight: bolder; */
+}
+
+.footer{
+    font-size: 3rem;
+    font-weight: bold;
+}

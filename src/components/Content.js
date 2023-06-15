@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 function Content({content}){
-return <h3>{content}</h3>
+return <p className="content">{content}</p>
 }
 
 export default Content;

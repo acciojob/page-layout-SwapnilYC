@@ -18,7 +18,7 @@ const App = () => {
         <Content content={y}/>
         {/* <Footer footer={z}/> */}
         {/* <p className="footer">©️ 2023 my Website. All rights reserved.</p> */}
-        ©️ 2023 my Website. All rights reserved.
+        © 2023 My Website. All rights reserved.
     </>
   )
 }

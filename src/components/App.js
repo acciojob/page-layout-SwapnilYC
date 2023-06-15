@@ -17,7 +17,8 @@ const App = () => {
         <Header header={x}/>
         <Content content={y}/>
         {/* <Footer footer={z}/> */}
-        <p className="footer">©️ 2023 my Website. All rights reserved.</p>
+        {/* <p className="footer">©️ 2023 my Website. All rights reserved.</p> */}
+        ©️ 2023 my Website. All rights reserved.
     </>
   )
 }

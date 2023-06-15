@@ -12,6 +12,7 @@ const App = () => {
   let z = "©️ 2023 my Website. All rights reserved."
   return (
     <div>
+      {/* hello */}
         {/* Do not remove the main div */}
         <Header header={x}/>
         <Content content={y}/>

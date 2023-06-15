@@ -11,14 +11,14 @@ const App = () => {
   let y = "This is the content of my website."
   let z = "©️ 2023 my Website. All rights reserved."
   return (
-    <div>
+    <>
       {/* hello */}
-        {/* Do not remove the main div */}
+        {/* Do not remove the main  */}
         <Header header={x}/>
         <Content content={y}/>
         <Footer footer={z}/>
        
-    </div>
+    </>
   )
 }
 

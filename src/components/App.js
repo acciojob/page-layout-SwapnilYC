@@ -16,8 +16,8 @@ const App = () => {
         {/* Do not remove the main  */}
         <Header header={x}/>
         <Content content={y}/>
-        <Footer footer={z}/>
-       
+        {/* <Footer footer={z}/> */}
+        <p className="footer">©️ 2023 my Website. All rights reserved.</p>
     </>
   )
 }
